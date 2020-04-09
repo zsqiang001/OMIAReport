@@ -1,2 +1,3 @@
 # OMIAReport
-openmind-infomation-report
+OpenMind-InformationAnalysis-Report
+
